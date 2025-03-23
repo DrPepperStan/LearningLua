@@ -21,11 +21,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## Process
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+This Is My Process For Learning Lua (Currently)
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+I Would Have DevKings Tutorial Series (https://www.youtube.com/watch?v=BkYwRdCukZA&list=PLhieaQmOk7nIfMZ1UmvKGPrwuwQVwAvFa)
 
 ### :keyboard: Activity: Enable GitHub Pages
 
